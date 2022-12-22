@@ -67,7 +67,7 @@ const index = () => {
               />
             </label>
             <label htmlFor="" className="w-100">
-              <strong>Enter your family</strong>
+              <strong>Enter your surname</strong>
               <input
                 type="text"
                 id="title"
